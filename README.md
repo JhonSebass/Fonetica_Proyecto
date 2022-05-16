@@ -1,6 +1,6 @@
 # Fonetica_Proyecto
 
-Fonética es una aplicación de escritorio y móvil para dispositivos Android, desarrollada en Unity con el lenguaje de programación c# para los scripts.
+Fonética es una aplicación de para sistema operativo Windows, desarrollada en Unity con el lenguaje de programación c#.
 
 La función principal de este proyecto es servir de herramienta lingüística para niños que se encuentran en edad temprana, ya que cuenta con diversas actividades que estimulan el aprendizaje lingüístico y sonoro a través de la repetición y la interacción.
 
