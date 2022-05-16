@@ -12,7 +12,6 @@ Sin embargo, puede acceder a su elección a la actividad que desee desde el inic
 
 1. Descargue los archivos de este repositorio dando clic, en la opción Code y luego Download Zip.
 2. Clic derecho sobre la carpeta y extraer.
-3. Una vez dentro de la carpeta extraida, repita el proceso con Fonetica_Windows.zip
+3. Una vez dentro de la carpeta extraída, repita el proceso con Fonetica_Windows.zip
 4. Ingrese en la carpeta Fonetica_Windows y de clic derecho sobre la aplicación Fonetica_Windows.exe
 5. Clic en abrir o ejecutar.
-
